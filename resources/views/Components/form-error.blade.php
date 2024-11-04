@@ -1,4 +1,3 @@
-
 @props(['name'])
 
 @error($name)
